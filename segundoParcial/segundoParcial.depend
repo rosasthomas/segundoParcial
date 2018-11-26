@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1543233330 source:d:\archivos\rosas\segundoparcial\bibliotecagetsycomprobaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1543242041 source:d:\archivos\rosas\segundoparcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"bibliotecaGetsYComprobaciones.h"
+	"parser.h"
+	"Controller.h"
+	<string.h>
+
+1543239524 d:\archivos\rosas\segundoparcial\linkedlist.h
+
+1543239447 d:\archivos\rosas\segundoparcial\employee.h
+
+1543233330 d:\archivos\rosas\segundoparcial\bibliotecagetsycomprobaciones.h
+
+1543233534 d:\archivos\rosas\segundoparcial\parser.h
+
+1543242041 d:\archivos\rosas\segundoparcial\controller.h
+
+1543240798 source:d:\archivos\rosas\segundoparcial\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"bibliotecaGetsYComprobaciones.h"
+	<conio.h>
+
+1543241498 source:d:\archivos\rosas\segundoparcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1543242041 source:d:\archivos\rosas\segundoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"bibliotecaGetsYComprobaciones.h"
+	"Controller.h"
+	"Employee.h"
+
+1543236740 source:d:\archivos\rosas\segundoparcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
